@@ -63,6 +63,10 @@ Each line of tag script begins with an '@' symbol, indicating a tag. These tags 
 - **School Course Study**: Get assistance with your school courses, including math, language learning, and more.
 - **Interactive Learning**: Engage with interactive lessons and exercises designed to enhance your learning experience.
 
+### Suggestive learning
+- **Suggests What a student needs to learn**: Suggests a student what to learn to stay updated.
+
+
 ### More as Proposed
 We are continuously working on adding more features and improving existing ones. Stay tuned for updates!
 
